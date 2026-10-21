@@ -273,8 +273,3 @@ docs/screenshots/                    Images used in this README
 - **Run In Background:** with it disabled in Player settings, Play mode pauses when Unity loses focus.
 
 ---
-
-## Credits
-
-- **Original project and core networking/placement system:** Anuj Pawale ([anujpavale5-ops/Ar-net](https://github.com/anujpavale5-ops/Ar-net))
-- **Realistic lab, walk mode, visualisation, console, missions and learning tools:** Abhishek Nanaware
